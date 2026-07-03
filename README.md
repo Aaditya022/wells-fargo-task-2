@@ -1,4 +1,4 @@
-Wells Fargo Software Engineering Virtual Experience – Task 2
+Wells Fargo – Task 2
 
 A Java-based implementation developed as part of the **Wells Fargo Software Engineering Virtual Experience Program (Forage)**. This project demonstrates object-oriented programming principles by modeling the relationship between financial advisors, clients, investment portfolios, and securities.
 
